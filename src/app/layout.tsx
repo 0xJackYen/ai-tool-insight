@@ -64,7 +64,7 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
             <strong>顏究工具庫</strong>
             <p>AI 工具資料庫、免費版實測、替代工具比較、App 教學與數位效率筆記。</p>
           </div>
-          <p>© 2026 ai-tool-insight</p>
+          <p>© 2026 顏究工具庫</p>
         </footer>
       </body>
     </html>
