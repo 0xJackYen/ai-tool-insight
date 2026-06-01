@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import "./globals.css";
 
-const siteUrl = "https://ai-tool-insight.vercel.app";
+const siteUrl = "https://jack-tool-insight.vercel.app";
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),

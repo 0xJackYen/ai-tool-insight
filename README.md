@@ -33,4 +33,4 @@ npm run lint
 建議使用 Vercel Import GitHub repo，Framework Preset 選 Next.js。
 
 - Build Command: `npm run build`
-- Environment variable: `NEXT_PUBLIC_SITE_URL=https://ai-tool-insight.vercel.app`
+- Environment variable: `NEXT_PUBLIC_SITE_URL=https://jack-tool-insight.vercel.app`

@@ -1,7 +1,7 @@
 import type { MetadataRoute } from "next";
 import { aiTools } from "@/data/aiTools";
 
-const siteUrl = "https://ai-tool-insight.vercel.app";
+const siteUrl = "https://jack-tool-insight.vercel.app";
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const staticRoutes = ["", "/ai-tools", "/free-plan", "/alternatives", "/tutorials", "/templates", "/cooperation", "/about"];
